@@ -1,19 +1,39 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #3a86ff;
+    font-family: Avenir, Montserrat, Arial, sans-serif;
+    background-color: #ffffff;
     color: whitesmoke;
 }
 
-.cupcake {
-    display: flex;
+#heading {
+    color: #000000;
+    font-family: Denasia Sans ;
+    text-align: center;
+    text-decoration: dotted;
+    text-transform: capitalize;
 }
 
-.flex1 {
-    /* flex : 1 */
+#it {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+#c1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+        vertical-align: middle;
+    align-items: center;
+}
+.cupcake {
+
+}
+
+/*.flex1 {
+     flex : 1;
+}*/
 
 .flex2 {
-    flex : 2
+    flex : 2;
 }
 
 .pl1 {
@@ -34,15 +54,15 @@ body {
 }
 
 .cupcake1 {
-    background-color: #ff006e;
+    background-color: #250902;
 }
 
 .cupcake2 {
-    background-color: #fb5607;
+    background-color: #38040E;
 }
 
 .cupcake3 {
-    background-color: #8338ec;
+    background-color: #640D14;
 }
 
 .blue {
