@@ -28,10 +28,6 @@ body {
 
 }
 
-/*.flex1 {
-     flex : 1;
-}*/
-
 .flex2 {
     flex : 2;
 }
@@ -54,15 +50,15 @@ body {
 }
 
 .cupcake1 {
-    background-color: #250902;
+    background-color: #C08081;
 }
 
 .cupcake2 {
-    background-color: #38040E;
+    background-color: #C08081;
 }
 
 .cupcake3 {
-    background-color: #640D14;
+    background-color: #C08081;
 }
 
 .blue {
